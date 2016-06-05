@@ -1,0 +1,12 @@
+{
+  "name": "testbot",
+  "version": "1.0.0",
+  "description": "TestBot Server App",
+  "main": "App.js",
+  "author": "JDog & DonRoelio",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "request": "^2.72.0"
+  }
+}
